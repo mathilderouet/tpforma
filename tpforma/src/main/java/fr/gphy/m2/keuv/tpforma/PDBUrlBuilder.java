@@ -8,7 +8,7 @@ public class PDBUrlBuilder
 		// TODO: gérer le proxy
 		URL url = new URL("http://www.uniprot.org/uniprot/" + uniprotId +".txt");
 		BufferedReader in = new BufferedReader(new InputStreamReader(url.openStream()));
-		// TODO: lire le fichier
+		//TODO
 		return null;
 	}
 }
