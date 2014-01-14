@@ -7,6 +7,6 @@ package fr.gphy.m2.keuv.tpforma;
 public class App {
   
     public static void main(String[] args) {
-        System.out.println("Je suis Anne-So et Mathilde n'est pas une TARD ");
+        System.out.println("Vous êtes toutes des tards je vous déteste! ");
     }
 }
